@@ -1,4 +1,4 @@
-# Protein-homology-detection-research
+# HMMERLite0.1
 
 ### Dependencies:- 
 
