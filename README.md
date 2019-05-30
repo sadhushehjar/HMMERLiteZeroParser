@@ -1,4 +1,4 @@
-# HMMERLiteZero
+# HMMERLiteZero Parser
 
 ### Dependencies:- 
 
