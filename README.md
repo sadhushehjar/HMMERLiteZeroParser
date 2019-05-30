@@ -8,10 +8,10 @@
 
 ** All files are assumed to be FASTA formated.
 
-  1. File directory path for all super families (there are Five).
+  1. File directory path for all super families.
   2. File directory path for train set file which will be generated.
 
-### Outputs:-
+### Outputs:- --- Needs Fixing---
   ** Both files are FASTA formatted.
   
   1. train.fa - file contains set of sequences to train on.
