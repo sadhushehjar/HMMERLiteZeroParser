@@ -1,4 +1,4 @@
-# HMMERLite0.1
+# HMMERLiteZero
 
 ### Dependencies:- 
 
