@@ -59,5 +59,5 @@ python3 msa.py /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Re
 ## List of guides:-
 
 1. [HMMER user guide](http://eddylab.org/software/hmmer3/3.1b2/Userguide.pdf)
-2. [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
+2. [Biopython user guide](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
 3. [MUSCLE user guide](http://www.drive5.com/muscle/muscle_userguide3.8.pdf)
