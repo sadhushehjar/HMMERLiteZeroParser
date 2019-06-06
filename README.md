@@ -3,6 +3,10 @@
 ### Dependencies:- 
 
   Biopython - https://biopython.org/
+  
+  You can download the Biopython framework here.
+  [Download page](http://biopython.org/DIST/docs/install/Installation.pdf)
+
 
 ### Inputs:-
 
@@ -26,4 +30,5 @@ Here test1 directory will be created by the program where all the train/test seq
 
 ## multiple-seq-aigns-hmm
 
-This program runs MSA tool MUSCLE  on 10 CATH sequences selected randomly and the passes the generated MSA to hmm build from HUMMER. 
+This program runs MSA tool MUSCLE   [MUSCLE user guide](http://www.drive5.com/muscle/muscle_userguide3.8.pdf) on 10 [CATH](http://www.cathdb.info/) sequences selected randomly and the passes the generated MSA to hmm build from 
+HMMER. [HMMER user guide](http://eddylab.org/software/hmmer3/3.1b2/Userguide.pdf) 
