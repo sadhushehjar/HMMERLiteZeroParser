@@ -1,5 +1,5 @@
 # HMMERLiteZero Parser
-## Program 1:cath-seq-parser:-
+## Program 1: cath-seq-parser:-
 ### Dependencies:- 
 
   Biopython - https://biopython.org/
@@ -24,8 +24,9 @@
 
 Example :- 
 
-```python
-python3 make_data.py /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/seq_parser/dummy-seq-by-sf /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/seq_parser/test1```
+``` python
+python3 make_data.py /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/seq_parser/dummy-seq-by-sf /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/seq_parser/test1 
+```
 
 Here test1 directory will be created by the program where all the train/test sequences belonging to the respective super family will be stored. 
 
@@ -34,6 +35,21 @@ Here test1 directory will be created by the program where all the train/test seq
 This program runs MSA tool MUSCLE   [MUSCLE user guide](http://www.drive5.com/muscle/muscle_userguide3.8.pdf) on 10 [CATH](http://www.cathdb.info/) sequences selected randomly and the passes the generated MSA to hmm build from 
 HMMER. [HMMER user guide](http://eddylab.org/software/hmmer3/3.1b2/Userguide.pdf) 
 
+### Running the program
+
+There are three inuputs to this program
+
+1. Folder path to dataset on which MSA will be performed :- 
+Eg:- /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/msa-data
+2. Folder path to where you want to store the Aligned sequences :-
+/Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/test_msa
+3.Folder path to where the ```hmm build``` command will output the files :-
+/Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/hmmbuild-files
+
+
+```python
+python3 msa.py /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/msa-data /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/test_msa /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/hmmbuild-files
+```
 
 ## List of guides:-
 
