@@ -24,7 +24,8 @@
 
 Example :- 
 
-```python3 make_data.py /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/seq_parser/dummy-seq-by-sf /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/seq_parser/test1```
+```python
+python3 make_data.py /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/seq_parser/dummy-seq-by-sf /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/seq_parser/test1```
 
 Here test1 directory will be created by the program where all the train/test sequences belonging to the respective super family will be stored. 
 
