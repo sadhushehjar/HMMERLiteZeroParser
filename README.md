@@ -1,15 +1,14 @@
 # HMMERLiteZero Parser
+
+## List of Dependencies:-
+
+1. [HMMER user guide](http://eddylab.org/software/hmmer3/3.1b2/Userguide.pdf)
+2. [Biopython user guide](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
+3. [MUSCLE user guide](http://www.drive5.com/muscle/muscle_userguide3.8.pdf)
+
+___
+
 ## Program 1: cath-seq-parser ``` make_data.py ``` :-
-
-### Dependencies:- 
-
-  1. Biopython - https://biopython.org/
-   
-   You can download the Biopython framework here.
-  [Download page](http://biopython.org/DIST/docs/install/Installation.pdf)
-
- 2. [MUSCLE user guide](http://www.drive5.com/muscle/muscle_userguide3.8.pdf)
-
 
 ### Inputs:-
 
@@ -59,8 +58,3 @@ There are three inuputs to this program
 python3 msa.py /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/msa-data /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/test_msa /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/hmmbuild-files
 ```
 
-## List of guides:-
-
-1. [HMMER user guide](http://eddylab.org/software/hmmer3/3.1b2/Userguide.pdf)
-2. [Biopython user guide](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
-3. [MUSCLE user guide](http://www.drive5.com/muscle/muscle_userguide3.8.pdf)
