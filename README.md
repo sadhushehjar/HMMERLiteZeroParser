@@ -1,11 +1,14 @@
 # HMMERLiteZero Parser
 ## Program 1: cath-seq-parser ``` make_data.py ``` :-
+
 ### Dependencies:- 
 
-  Biopython - https://biopython.org/
-  
-  You can download the Biopython framework here.
+  1. Biopython - https://biopython.org/
+   
+   You can download the Biopython framework here.
   [Download page](http://biopython.org/DIST/docs/install/Installation.pdf)
+
+ 2. [MUSCLE user guide](http://www.drive5.com/muscle/muscle_userguide3.8.pdf)
 
 
 ### Inputs:-
