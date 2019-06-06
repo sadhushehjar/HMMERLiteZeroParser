@@ -41,12 +41,11 @@ HMMER. [HMMER user guide](http://eddylab.org/software/hmmer3/3.1b2/Userguide.pdf
 
 There are three inuputs to this program
 
-1. Folder path to dataset on which MSA will be performed :- 
-Eg:- /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/msa-data
-2. Folder path to where you want to store the Aligned sequences :-
-/Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/test_msa
-3.Folder path to where the ```hmm build``` command will output the files :-
-/Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/hmmbuild-files
+1. Folder path to dataset on which MSA will be performed :- Eg:- ```/Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/msa-data```
+2. Folder path to where you want to store the Aligned sequences :- Eg:-
+```/Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/test_msa```
+3.Folder path to where the ```hmm build``` command will output the files :- Eg:-
+```/Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/multiple-seq-aigns/hmmbuild-files```
 
 
 ```python
