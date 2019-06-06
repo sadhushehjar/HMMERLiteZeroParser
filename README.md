@@ -12,8 +12,10 @@
 
 ** All files are assumed to be FASTA formated.
 
-  1. File directory path for all super families.
-  2. File directory path for train set file which will be generated.
+  1. File directory path for all super families:- Eg :-
+  ``` /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/seq_parser/dummy-seq-by-sf```
+  2. File directory path for train set file which will be generated.:- Eg:-
+``` /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResearch/Research-Proteins/seq_parser/test1```
 
 ### Outputs:- --- Needs Fixing---
   ** Both files are FASTA formatted.
