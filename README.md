@@ -1,5 +1,5 @@
 # HMMERLiteZero Parser
-## Program 1: cath-seq-parser:-
+## Program 1: cath-seq-parser (make_data.py) :-
 ### Dependencies:- 
 
   Biopython - https://biopython.org/
@@ -32,7 +32,7 @@ python3 make_data.py /Users/shehjarsadhu/Desktop/Summer19/HomologyDetectionResea
 
 Here test1 directory will be created by the program where all the train/test sequences belonging to the respective super family will be stored. 
 
-## Program 2: multiple-seq-aigns-hmm:-
+## Program 2: multiple-seq-aigns-hmm (msa.py):-
 
 This program runs MSA tool MUSCLE   [MUSCLE user guide](http://www.drive5.com/muscle/muscle_userguide3.8.pdf) on 10 [CATH](http://www.cathdb.info/) sequences selected randomly and the passes the generated MSA to hmm build from 
 HMMER. [HMMER user guide](http://eddylab.org/software/hmmer3/3.1b2/Userguide.pdf) 
